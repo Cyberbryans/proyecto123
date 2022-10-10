@@ -1,0 +1,44 @@
+
+header{
+    background: #386ED9;
+}
+
+footer{
+    background: #386ED9;
+}
+
+html{
+    background: #A6ACAF;
+    height: 100%;
+}
+li{
+    display: inline-block;
+    float: left;
+    width: 130px;
+    height: 100%;
+    outline: 1px solid blue; 
+}
+ul{
+    
+    list-style: none;
+    padding:0;
+    margin: 0;
+    background: #2e2e2a;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #3F38D9;
+
+}
+/*
+ 
+
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 09/10/2022, 10:17:16 PM
+    Author     : User
+*/
+
